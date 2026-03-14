@@ -1,0 +1,11 @@
+saya adalah seorang mahasiswa yang diberi tugas disini tugas nya ada sebuah case yang dimana kita harus membuat sebuah program untuk menyelesaikan sebuah masalah yang dimana kita diminta untuk membuat sebuah program bahasa c dengan kententuan yang dimana program tersebut harus bisa memecahkan tantangan,saya juga program itu bekerja secara bertahap dan logis.saya juga ini anda membuat skema yang dimana program tersebut melampirkan daftar ongkir del express yang dimana sudah memiliki ketentuan tersendiri yang dimana ongkos pengiriman per kilo gram ke beberapa kota tujuan yang ada itu dimana semakin berat dan semkin jauh jarak semakin mahal disini juga del express menyediakan promo ongkir lebaran yang memuat syarat total berat pengiriman barang lebih dari 10 kg maka akan mendapat promo 10persen dan juga mendapatkan asuransi pengiriman ke luar pulau.user harus menginput apa yang telah ditentukan dan output yang telah ditentukan juga **Input**
+
+```bash
+MDN
+5
+JKT
+3
+BLG
+4
+END
+aku mau seperti inputannya ketika diberi perintah end program berhenti
